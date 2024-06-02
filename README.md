@@ -8,4 +8,4 @@ A Student focused E-marketplace webapp designed to allow students within a unive
 <img width="924" alt="view_listing1" src="https://github.com/Zezo2cool/UniTrade/assets/124784610/2b14a1f6-141f-4ef7-8919-f8521730b3a7">
 
 
-Work by Ziyad Elgyziri (me), <a href="https://github.com/adamazmy">Adam Azmy</a>, Naqash Nadeem, Moheeb Hussein, Vedansh Guru, Shahrad Zeinali
+Work by Ziyad Elgyziri (me) (backend, UI), <a href="https://github.com/adamazmy">Adam Azmy</a> (backend, frontend), Naqash Nadeem (frontend, UI), Moheeb Hussein (frontend), Vedansh Guru (frontend), Shahrad Zeinali (backend)
